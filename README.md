@@ -17,11 +17,16 @@ HealthVault is a web app for managing personal health records, built with FastAP
    ```bash
    git clone https://github.com/username/repository-name.git
 
-2. **Instlling Depemdencies**:
-     **Run Commnd** pip install -r requirements.txt
+2. **Instlling Depemdencies**:<br/>
+   ```bash
+    pip install -r requirements.txt
 
-3. **Run the Application**:
-   **Run Command** uvicorn main_appname:app --reload
+4. **Run the Application**:<br/>
+    ```bash
+    uvicorn main_appname:app --reload
 
-**If you have any queries **Contact me** linkedin "https://www.linkedin.com/in/ansar-ul-haq-a455b0241/"**
+**If you have any queries **Contact me** linkedin "https://www.linkedin.com/in/ansar-ul-haq-a455b0241/"**<br/>
+**Developed** in Python(FastAPI)<br/>
+**Author**: Ansar Ul Haq
+<br/>
 
